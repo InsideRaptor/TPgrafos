@@ -17,6 +17,7 @@ public class Prim {
                     {0, 42, 66, 31, 0}};
 
         g.Prim(G, V);
+
     }
 }
 

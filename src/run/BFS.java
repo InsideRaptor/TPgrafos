@@ -16,5 +16,6 @@ public class BFS {
         System.out.println("BFS desde nodo 0");
 
         g.BFS(0);
+
     }
 }
